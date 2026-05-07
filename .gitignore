@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+._*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*~
+
+# Claude Code workspace state
+.claude/
+
+# Build / packaging artifacts
+*.zip
+*.tar.gz
+
+# Local samples / outputs
+samples/
+diagnostics/
+*.png
+*.jsonl

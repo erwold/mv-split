@@ -1,0 +1,15 @@
+colorama==0.4.6
+diffusers==0.36.0
+einops==0.8.1
+jsonargparse==4.39.0
+matplotlib==3.10.3
+nvitop==1.6.2
+pandas==2.2.3
+peft==0.18.1
+polars==1.26.0
+safetensors==0.5.3
+torch-fidelity==0.4.0
+torchao==0.11.0
+transformers==4.54.1
+wandb==0.25.1
+webdataset==0.2.111
